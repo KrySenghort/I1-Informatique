@@ -1,0 +1,11 @@
+R, Python, Java, Scala, Go, Perl, Matlab.......
+Data Science ==> Data Scientist
+
+Module1: Basic Programming skill to advance(python)
+Module2: Pre-processing(cleaning, wrangling, transform)
+Module3: EDA & Visualization (Power BI, Tableau,...)
+Module4: Model training testing
+Module5: Deployment
+Module6: Automation System
+
+Data Engineer: (data pipline, data infastructure, data warehouse, big data, SQL)
